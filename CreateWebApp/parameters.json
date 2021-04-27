@@ -1,0 +1,48 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "storageAccounts_dockerspheredevmain_name": {
+            "value": null
+        },
+        "factories___externalid": {
+            "value": null
+        },
+        "accounts___externalid": {
+            "value": null
+        },
+        "workflows___externalid": {
+            "value": null
+        },
+        "workspaces___externalid": {
+            "value": null
+        },
+        "migrateprojects___externalid": {
+            "value": null
+        },
+        "workspaces___externalid_1": {
+            "value": null
+        },
+        "Accounts___externalid_1": {
+            "value": null
+        },
+        "searchServices___externalid": {
+            "value": null
+        },
+        "servers___externalid": {
+            "value": null
+        },
+        "streamingjobs___externalid": {
+            "value": null
+        },
+        "workspaces___externalid_2": {
+            "value": null
+        },
+        "registries___externalid": {
+            "value": null
+        },
+        "virtualNetworks_RegionApplication_externalid": {
+            "value": null
+        }
+    }
+}
