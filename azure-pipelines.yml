@@ -19,7 +19,7 @@ steps:
     resourceGroupName: 'RG-SmartDock-SEAsia'
     location: 'Southeast Asia'
     templateLocation: 'URL of the file'
-    csmFileLink: 'https://raw.githubusercontent.com/hankfighting/SmartDockPipeline-repo/main/CreateWebApp/azuredeploy.json?token=ABVRWLD5335FTXHPACZN4QLAQ65AC'
+    csmFileLink: 'https://raw.githubusercontent.com/hankfighting/SmartDockPipeline-repo/main/CreateWebApp/azuredeploy.json?token=ABVRWLCYEZWMQXZ3C7BHRGLAQ65ZW'
     overrideParameters: '-projectName SmartDock'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
